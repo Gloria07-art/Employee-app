@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "fullName": "Jenny Chan",
+      "surName": "Davids",
+      "email": "Ashdavids@gmail.com",
+      "phoneNumber": "081 768 5634",
+      "position": "Trainee",
+      "iden": "880812096743225"
+    },
+    {
+      "id": 2,
+      "fullName": "Lucian",
+      "surName": "Mabuza",
+      "email": "LucianMabuza@gmail.com",
+      "phoneNumber": "073 116 7865",
+      "position": "Manager",
+      "iden": "8008656209674325"
+    },
+    {
+      "id": 3,
+      "fullName": "Love",
+      "surName": "Selepe",
+      "email": "AyandaSelepe@gmail.com",
+      "phoneNumber": "061 116 7865",
+      "position": "Logistic Officer",
+      "iden": "88656201274325"
+    },
+    {
+      "id": 4,
+      "fullName": "Jeremy Clark",
+      "surName": "Seekoei",
+      "email": "seekoeineo@gmail.com",
+      "phoneNumber": "084 116 7865",
+      "position": "Technician",
+      "iden": "822865620944325"
+    },
+    {
+      "id": 5,
+      "fullName": "Raymond Edwards",
+      "surName": "Brown",
+      "email": "Bobbybrown@gmail.com",
+      "phoneNumber": "074 236 7865",
+      "position": "Inspector",
+      "iden": "89956209674325"
+    }
+  ]

@@ -1,38 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+.subject{
+  font-weight: bolder;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 35px;
+  margin-left: 500px;
+}
+
+h1 {
+  text-align: 400px left;
+
+}
+
+.prof{
+  font-weight: lighter;
+  font-family: 'Quicksand',sans-serif;
+
+}
+
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  gap: 20px;
+  padding: 10rem;
+  background-image: url(./assets/Burst_Lime.webp);
 }
 
-.App-link {
-  color: #61dafb;
+table {
+  border-collapse: collapse;
+  width: 100%;
+
+  justify-content: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+th,
+td {
+  border: 1px solid #cdd2c2;
+  text-align: left;
+  padding: 8px;
+  font-size: 20px;
+  
+  font-family: 'Quicksand',sans-serif;
+}
+
+th {
+  background-color: rgb(111, 119, 30);
+}
+
+td {
+  background-color: rgb(220, 224, 216);
+  font-size: 20px;
+  font-weight: lighter;
+}
+h1 {
+  margin-left: 800px;
+}
+
+.see {width: 15%;
+  margin-left: 180px;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.row {
+  border: 1px solid #cdd2c2;
+  text-align: left;
+  padding: 8px;
+  font-size: 14px;
+  background-color: rgb(220, 224, 216);
+  font-family: 'Quicksand',sans-serif;
+}
+
+ul {
+  text-align: center;
+  margin-bottom: -1%;
+  font-weight: bold;
+
+}
+
+.canva{text-align: center;
+  margin-bottom: -1%;
+  font-weight: bold;
+
 }
